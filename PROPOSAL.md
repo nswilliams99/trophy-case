@@ -287,6 +287,8 @@ Even at the most conservative end, **Option 1 adds ~$19,000 to your sale price b
 
 **All revenue projections are based on NEW business only** — customers who find you through the website who wouldn't have found you otherwise. Your existing walk-in, wrestling meet, and car show revenue stays the same on top of these numbers.
 
+**Small businesses in this price range rarely sell overnight.** If it takes 18-24 months to find the right buyer instead of 12, that's not a problem — it's more time for the website to mature. Year 2 and Year 3 numbers show the site gaining momentum as SEO authority compounds and repeat customers build. Every additional month of documented traffic and revenue makes the business more attractive to a buyer and increases your asking price. The website doesn't lose value while you wait — it gains it.
+
 **The website investment of $2,750-$5,500 is the highest-ROI move you can make before listing the business.**
 
 ### What Transfers to a Buyer
