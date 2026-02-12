@@ -16,7 +16,7 @@ Your current Wix site generates less than 1 visit per month and ranks for zero k
 
 This proposal presents two options to build a digital presence that increases your business value before sale:
 
-- **Option 1 ($5,500 + $157/mo):** Full website + online store for medals and plaques — maximizes transferable value
+- **Option 1 ($5,500 + $157/mo):** Full website + online ordering for medals and plaques — like adding a second business that transfers to the buyer
 - **Option 2 ($2,750 + $99/mo):** Lead-generation website only — lower cost, local leads only
 
 **Bottom line: A $2,750-$5,500 investment now could add $19,000-$34,000+ to your asking price within 2 years — even using the most conservative estimates.**
@@ -128,10 +128,12 @@ shop.thetrophycasefremont.com (Shopify — medals & plaques only)
 
 | Period | Local Revenue | E-Commerce (Medals & Plaques) | Total |
 |---|---|---|---|
-| **Year 1** | $2,500-$8,000 | $600-$2,200 | **$3,100-$10,200** |
+| **Year 1** | $1,450-$8,000 | $1,600-$2,200 | **$3,050-$10,200** |
 | **Year 2** | $12,000-$40,000 | $8,000-$22,000 | **$20,000-$62,000** |
 
-*E-commerce projections based on 1.5-2.5% conversion rate, $55-$70 average order value, limited to medals and plaques. Local revenue includes all in-store services (trophies, engraving, corporate awards) driven by website leads.*
+*These are conservative projections based on NEW business only — customers who find you through the website who wouldn't have found you otherwise. Existing walk-in and word-of-mouth revenue is not included.*
+
+*The online ordering system operates at a loss of ~$1,850 in Year 1 — the $3,446 incremental cost of the store ($2,750 build premium + $696/yr platform) exceeds the $1,600 low-end e-commerce revenue. This is normal for a new online store. By Year 2, e-commerce revenue grows to $8,000-$22,000 as SEO authority builds and the product catalog matures — turning a $1,850 Year 1 loss into $7,300+ in Year 2 profit from the ordering system alone.*
 
 ### Investment & ROI
 
@@ -139,11 +141,11 @@ shop.thetrophycasefremont.com (Shopify — medals & plaques only)
 |---|---|
 | Build cost | $5,500 |
 | Annual ongoing costs (platform + SEO) | $1,899 |
-| Year 1 revenue | $3,100-$10,200 |
+| Year 1 revenue | $3,050-$10,200 |
 | Year 2 revenue | $20,000-$62,000 |
-| 24-month cumulative revenue | $23,100-$72,200 |
+| 24-month cumulative revenue | $23,050-$72,200 |
 | 24-month total costs (build + 2yr ongoing) | $9,298 |
-| 24-month net profit | **$13,802-$62,902** |
+| 24-month net profit | **$13,752-$62,902** |
 | Breakeven | Month 12-18 |
 | 2-Year ROI | 148-677% |
 
@@ -187,10 +189,10 @@ A professionally built, SEO-optimized website focused on generating local leads 
 
 | Period | Revenue from Website |
 |---|---|
-| **Year 1** | **$2,500-$8,000** |
+| **Year 1** | **$1,450-$8,000** |
 | **Year 2** | **$12,000-$40,000** |
 
-*Slow ramp in Year 1; most revenue in Q3-Q4. Year 2 reflects SEO maturity and repeat customers.*
+*These are conservative projections based on NEW business only — customers who find you through the website who wouldn't have found you otherwise. Year 1 low-end is 20% above your annual website costs, meaning even the worst-case scenario covers your investment and then some. Year 2 reflects SEO maturity and repeat B2B customers (schools, sports leagues, businesses that reorder annually).*
 
 ### Investment & ROI
 
@@ -198,13 +200,13 @@ A professionally built, SEO-optimized website focused on generating local leads 
 |---|---|
 | Build cost | $2,750 |
 | Annual ongoing costs (domain + SEO) | $1,203 |
-| Year 1 revenue | $2,500-$8,000 |
+| Year 1 revenue | $1,450-$8,000 |
 | Year 2 revenue | $12,000-$40,000 |
-| 24-month cumulative revenue | $14,500-$48,000 |
+| 24-month cumulative revenue | $13,450-$48,000 |
 | 24-month total costs (build + 2yr ongoing) | $5,156 |
-| 24-month net profit | **$9,344-$42,844** |
+| 24-month net profit | **$8,294-$42,844** |
 | Breakeven | Month 12-18 |
-| 2-Year ROI | 181-831% |
+| 2-Year ROI | 161-831% |
 
 ### Upgrade Path
 
@@ -218,11 +220,11 @@ Option 2 is built on the same Next.js architecture as Option 1. If you or a futu
 |---|---|---|
 | **Build investment** | $5,500 | $2,750 |
 | **Annual ongoing costs** | $1,899/yr ($157/mo) | $1,203/yr ($99/mo) |
-| **Year 1 revenue** | $3,100-$10,200 | $2,500-$8,000 |
+| **Year 1 revenue** | $3,050-$10,200 | $1,450-$8,000 |
 | **Year 2 revenue** | $20,000-$62,000 | $12,000-$40,000 |
-| **24-month cumulative revenue** | $23,100-$72,200 | $14,500-$48,000 |
+| **24-month cumulative revenue** | $23,050-$72,200 | $13,450-$48,000 |
 | **24-month total costs** | $9,298 | $5,156 |
-| **24-month net profit** | $13,802-$62,902 | $9,344-$42,844 |
+| **24-month net profit** | $13,752-$62,902 | $8,294-$42,844 |
 | **Breakeven** | Month 12-18 | Month 12-18 |
 | **Market reach** | Local + nationwide (medals/plaques) | Fremont + Omaha metro |
 | **Build timeline** | 8-12 weeks | 4-6 weeks |
@@ -247,27 +249,29 @@ Small businesses typically sell for **1.5-3x annual profit.** Here's how a websi
 
 | Metric | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|
-| Website-added revenue | $3,100-$10,200 | $20,000-$62,000 | $30,000-$80,000 |
+| Website-added revenue | $3,050-$10,200 | $20,000-$62,000 | $30,000-$80,000 |
 | Minus ongoing costs ($1,899/yr) | -$1,899 | -$1,899 | -$1,899 |
-| **Net profit added by website** | **$1,201-$8,301** | **$18,101-$60,101** | **$28,101-$78,101** |
-| Total business profit | $49,201-$56,301 | $66,101-$108,101 | $76,101-$126,101 |
-| **Business sale value (1.5x profit)** | **$73,800-$84,500** | **$99,150-$162,150** | **$114,150-$189,150** |
+| **Net profit added by website** | **$1,151-$8,301** | **$18,101-$60,101** | **$28,101-$78,101** |
+| Total business profit | $49,151-$56,301 | $66,101-$108,101 | $76,101-$126,101 |
+| **Business sale value (1.5x profit)** | **$73,700-$84,500** | **$99,150-$162,150** | **$114,150-$189,150** |
 | **Increase over today's asking ($45-$80K)** | **+$0-$39,500** | **+$19,150-$117,150** | **+$34,150-$144,150** |
 
-*Year 3 revenue assumes continued SEO growth and repeat customer compounding. Conservative estimate: 50% increase over Year 2 low-end.*
+*Year 1 note: The online ordering system operates at a ~$1,850 loss in its first year — this is normal for a new e-commerce store building SEO authority and product catalog. By Year 2, the ordering system alone generates $8,000-$22,000 in revenue against only $696/yr in platform costs. Year 3 assumes continued growth with 50% increase over Year 2 low-end.*
+
+**Why the Year 1 loss on the ordering system is worth it:** The online store is like adding an additional business to the business. A buyer isn't just purchasing The Trophy Case's storefront — they're getting a working online ordering system with products already listed, customer reviews building, and SEO rankings growing. They can immediately add more products, expand into new categories, and scale it without starting from scratch. That's the difference between buying a trophy shop and buying a trophy shop *with an e-commerce business attached.*
 
 ### With Option 2 — Lead-Gen Website ($2,750)
 
 | Metric | Year 1 | Year 2 | Year 3 |
 |---|---|---|---|
-| Website-added revenue | $2,500-$8,000 | $12,000-$40,000 | $18,000-$55,000 |
+| Website-added revenue | $1,450-$8,000 | $12,000-$40,000 | $18,000-$55,000 |
 | Minus ongoing costs ($1,203/yr) | -$1,203 | -$1,203 | -$1,203 |
-| **Net profit added by website** | **$1,297-$6,797** | **$10,797-$38,797** | **$16,797-$53,797** |
-| Total business profit | $49,297-$54,797 | $58,797-$86,797 | $64,797-$101,797 |
-| **Business sale value (1.5x profit)** | **$74,000-$82,200** | **$88,200-$130,200** | **$97,200-$152,700** |
+| **Net profit added by website** | **$247-$6,797** | **$10,797-$38,797** | **$16,797-$53,797** |
+| Total business profit | $48,247-$54,797 | $58,797-$86,797 | $64,797-$101,797 |
+| **Business sale value (1.5x profit)** | **$72,400-$82,200** | **$88,200-$130,200** | **$97,200-$152,700** |
 | **Increase over today's asking ($45-$80K)** | **+$0-$37,200** | **+$8,200-$85,200** | **+$17,200-$107,700** |
 
-*Year 3 revenue assumes continued SEO growth and repeat B2B customers. Conservative estimate: 50% increase over Year 2 low-end.*
+*Year 1 low-end covers ongoing costs plus 20% — even the worst-case scenario pays for itself. Year 2 reflects SEO maturity and repeat B2B customers. Year 3 assumes 50% increase over Year 2 low-end.*
 
 ### Conservative Bottom Line
 
@@ -276,10 +280,12 @@ Using **only the low-end numbers** and the lowest sale multiple (1.5x):
 | Scenario | Year 1 Sale Value | Year 2 Sale Value | Year 3 Sale Value |
 |---|---|---|---|
 | **No website (today)** | $45,000-$80,000 | Same | Same |
-| **Option 1 ($5,500 + $157/mo)** | $73,800 | **$99,150** | **$114,150** |
-| **Option 2 ($2,750 + $99/mo)** | $74,000 | **$88,200** | **$97,200** |
+| **Option 1 ($5,500 + $157/mo)** | $73,700 | **$99,150** | **$114,150** |
+| **Option 2 ($2,750 + $99/mo)** | $72,400 | **$88,200** | **$97,200** |
 
 Even at the most conservative end, **Option 1 adds ~$19,000 to your sale price by Year 2** and **~$34,000 by Year 3.** That's a 3-6x return on the total investment. Option 2 adds ~$8,000 by Year 2 and ~$17,000 by Year 3 at similarly conservative assumptions.
+
+**All revenue projections are based on NEW business only** — customers who find you through the website who wouldn't have found you otherwise. Your existing walk-in, wrestling meet, and car show revenue stays the same on top of these numbers.
 
 **The website investment of $2,750-$5,500 is the highest-ROI move you can make before listing the business.**
 
@@ -384,11 +390,13 @@ Our research confirmed that Google Ads are **cost-prohibitive** for this industr
 
 ## Recommendation
 
-**Option 1 ($5,500 + $157/mo) is the strongest move for selling the business.** The online store creates documented, transferable revenue that a buyer can verify in Shopify analytics. It doesn't depend on you being there. For $2,750 more upfront and $58/mo more than Option 2, you add a nationwide e-commerce channel that conservatively adds ~$19,000 to your sale price by Year 2 — and keeps growing.
+**Option 1 ($5,500 + $157/mo) is the strongest move for selling the business.** The online ordering system is like adding a second business on top of The Trophy Case — a working e-commerce store with products listed, SEO rankings building, and customers already ordering. A buyer gets a storefront *and* an online business they can immediately expand by adding more products and categories. That's worth real money in a sale negotiation.
 
-Option 2 ($2,750 + $99/mo) is a solid, lower-cost alternative if you want to minimize spending. It still builds local SEO value and Google reviews that transfer to a buyer. And the architecture supports adding a Shopify store later — either before you sell or as a selling point ("the site is built to easily add e-commerce").
+The ordering system loses ~$1,850 in Year 1 as it builds momentum — but by Year 2 it generates $8,000-$22,000 in revenue on only $696/yr in platform costs. For $2,750 more upfront and $58/mo more than Option 2, you add a nationwide e-commerce channel that conservatively adds ~$19,000 to your sale price by Year 2 — and keeps growing.
 
-Both options include monthly SEO management: new blog content, keyword tracking, competitor monitoring, technical updates, and Google Business Profile maintenance — the ongoing work that keeps rankings growing.
+Option 2 ($2,750 + $99/mo) is a solid, lower-cost alternative if you want to minimize spending. It still builds local SEO value and Google reviews that transfer to a buyer. Even in the worst-case Year 1 scenario, it generates 20% more than its annual cost in new business. And the architecture supports adding a Shopify store later — either before you sell or as a selling point ("the site is built to easily add e-commerce").
+
+Both options include monthly SEO management: new blog content, keyword tracking, competitor monitoring, technical updates, and Google Business Profile maintenance — the ongoing work that keeps rankings growing. All revenue projections are based on new business only — customers the website brings in who wouldn't have found you otherwise.
 
 ---
 
