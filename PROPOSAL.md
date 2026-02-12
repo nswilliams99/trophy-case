@@ -12,7 +12,7 @@ The Trophy Case does $85,000 in annual revenue with $48,000 in profit — a soli
 
 **A website with documented traffic and online sales does transfer.** It runs without you. A buyer sees a growth trajectory they can step into — not just a storefront that depends on the previous owner showing up at wrestling meets.
 
-Your current Wix site generates less than 1 visit per month and ranks for zero keywords. Meanwhile, **Fremont has zero trophy shop competitors online** — you own your local market by default, the website just needs to be findable.
+Your current Wix site costs $100/month and generates less than 1 visit per month — $1,200/year for zero return. Meanwhile, **Fremont has zero trophy shop competitors online** — you own your local market by default, the website just needs to be findable.
 
 This proposal presents two options to build a digital presence that increases your business value before sale:
 
@@ -34,6 +34,8 @@ This proposal presents two options to build a digital presence that increases yo
 | Keywords in top 10 | **0** | 7 |
 | Google reviews | 6 (4.3 stars) | 47 (4.9 stars) |
 | Products listed on site | **0** | Full catalog |
+
+**You're currently paying $100/month ($1,200/year) for this.** That's $1,200 a year for a site that generates less than 1 visit per month and ranks for nothing.
 
 ### What This Means for a Sale
 
@@ -98,6 +100,8 @@ Neither competitor offers real-time visual product customization. **Zakeke gives
 | Domain | thetrophycasefremont.com | — | $15 |
 | SEO management + hosting | Monthly content, keyword tracking, updates | $99 | $1,188 |
 | **Total ongoing cost** | | **$157/mo** | **$1,899/yr** |
+
+*Your current site costs $100/mo. Option 1 is $157/mo — just $57/mo more — but replaces a site with zero traffic with a full lead-gen website plus an e-commerce store.*
 
 ### How It Works Together
 
@@ -176,6 +180,8 @@ A professionally built, SEO-optimized website focused on generating local leads 
 | SEO management + hosting | Monthly content, keyword tracking, updates | $99 | $1,188 |
 | **Total ongoing cost** | | **$99/mo** | **$1,203/yr** |
 
+*You're already paying $100/mo for your current site. Option 2 replaces it at essentially the same monthly cost — but this one actually ranks, generates leads, and adds value to the business.*
+
 ### Traffic Projections
 
 | Timeline | Monthly Visits | Qualified Leads/Month |
@@ -229,6 +235,9 @@ Option 2 is built on the same Next.js architecture as Option 1. If you or a futu
 | **Market reach** | Local + nationwide (medals/plaques) | Fremont + Omaha metro |
 | **Build timeline** | 8-12 weeks | 4-6 weeks |
 | **Best for business sale?** | **Yes — documented e-commerce revenue** | Good — local leads only |
+| **vs. current $100/mo Wix site** | +$57/mo for full e-commerce + lead-gen | Same cost, replaces zero-traffic site |
+
+*Both options replace the $100/mo site you're already paying for. Option 2 costs essentially the same. Option 1 is $57/mo more but adds a nationwide e-commerce store.*
 
 ---
 
