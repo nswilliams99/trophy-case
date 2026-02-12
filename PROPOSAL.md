@@ -8,11 +8,18 @@
 
 ## Executive Summary
 
-The Trophy Case has been serving Fremont and the surrounding community for years, but its current online presence is virtually invisible. Your Wix website generates less than 1 visit per month, ranks for zero keywords in the top 10, and lists no products — only links to external supplier catalogs. Meanwhile, competitors with basic websites are capturing customers who search online for trophies, plaques, and engraving services in the Omaha metro area.
+The Trophy Case does $85,000 in annual revenue with $48,000 in profit — a solid business. But a significant portion of that revenue depends on your personal relationships: 10 wrestling meet weekends a year, car show trophy orders, and decades of word-of-mouth in Fremont. When you sell the business, those relationships don't automatically transfer to a buyer.
 
-The good news: **Fremont has zero trophy shop competitors online.** You own your local market by default — the website just needs to be findable. And the broader Omaha metro market (950,000+ population) is served by only 6-8 shops, none of which dominate digitally. The top local competitor ranks for just 93 keywords with 454 monthly visits — a very low bar to clear.
+**A website with documented traffic and online sales does transfer.** It runs without you. A buyer sees a growth trajectory they can step into — not just a storefront that depends on the previous owner showing up at wrestling meets.
 
-This proposal presents two options to establish The Trophy Case's digital presence and drive measurable revenue growth.
+Your current Wix site generates less than 1 visit per month and ranks for zero keywords. Meanwhile, **Fremont has zero trophy shop competitors online** — you own your local market by default, the website just needs to be findable.
+
+This proposal presents two options to build a digital presence that increases your business value before sale:
+
+- **Option 1 ($5,500 + $157/mo):** Full website + online store for medals and plaques — maximizes transferable value
+- **Option 2 ($2,750 + $99/mo):** Lead-generation website only — lower cost, local leads only
+
+**Bottom line: A $2,750-$5,500 investment now could add $19,000-$34,000+ to your asking price within 2 years — even using the most conservative estimates.**
 
 ---
 
@@ -28,13 +35,12 @@ This proposal presents two options to establish The Trophy Case's digital presen
 | Google reviews | 6 (4.3 stars) | 47 (4.9 stars) |
 | Products listed on site | **0** | Full catalog |
 
-### What's Costing You Customers
+### What This Means for a Sale
 
-1. **No products on the website.** Visitors see supplier flipbook links instead of your actual inventory and pricing.
-2. **Not appearing in Google searches.** Zero top-10 rankings means zero organic traffic from search.
-3. **Weak Google Business Profile.** 6 reviews at 4.3 stars vs. competitors with 30-55 reviews at 4.5+ stars keeps you out of the Google Map Pack.
-4. **No quote request system.** No way for customers to request pricing online.
-5. **No mobile optimization.** Over 60% of local searches happen on mobile devices.
+A buyer evaluating your business sees:
+1. **No online presence.** Zero digital revenue, zero organic traffic — the business is invisible online.
+2. **Revenue tied to the owner.** Wrestling meets, car shows, and word-of-mouth all depend on you being there.
+3. **No growth trajectory.** Without a website generating leads and sales, there's no documented upward trend to justify a higher price.
 
 ---
 
@@ -42,9 +48,8 @@ This proposal presents two options to establish The Trophy Case's digital presen
 
 ### Local Market (Fremont + Omaha Metro)
 
-- **Fremont/Dodge County (35,000 population):** Zero trophy shop competitors. Estimated $60,000-$150,000/year capturable market.
+- **Fremont/Dodge County (35,000 population):** Zero trophy shop competitors online. Estimated $60,000-$150,000/year capturable market.
 - **Omaha Metro (950,000 population):** 6-8 competitors, none digitally dominant. Estimated $60,000-$320,000/year capturable share.
-- **Combined opportunity:** $120,000-$400,000/year depending on strategy aggressiveness.
 
 ### Search Demand
 
@@ -57,90 +62,42 @@ This proposal presents two options to establish The Trophy Case's digital presen
 
 ### Seasonality
 
-Trophy/award searches peak in **April-May** (spring sports, Q1 corporate recognition) and **July-August** (summer leagues, back-to-school). A February-March launch captures the first peak.
+Trophy/award searches peak in **April-May** (spring sports, Q1 corporate recognition) and **July-August** (summer leagues, back-to-school). A February-March launch captures the first peak and gives you 12-18 months of documented traffic growth before listing the business for sale.
 
 ---
 
-## Option 1: Local Lead-Generation Website
+## Option 1: Online Store + Lead-Gen Website — $5,500
 
 ### What You Get
 
-A professionally built, SEO-optimized website focused on generating local leads — phone calls, quote requests, and walk-in traffic from customers searching online.
-
-**22-28 pages at launch:**
-- Homepage with trust signals, services overview, and calls to action
-- 7 service pages (custom trophies, medals, plaques, engraving, acrylic awards, glass awards, corporate awards)
-- 5 area-served pages (Fremont, Omaha, Wahoo, Blair, Dodge County)
-- Gallery/portfolio, About, Contact, FAQ, Reviews page
-- Blog (launch with 3-5 posts, add 2/month ongoing)
-
-### Technology
-
-| Component | Solution | Cost |
-|---|---|---|
-| Framework | Next.js (static site generation) | Free |
-| Hosting | Vercel | Free |
-| Forms | Formspree (50 submissions/mo) | Free |
-| Analytics | Google Analytics 4 + Search Console | Free |
-| Domain | thetrophycasefremont.com (existing) | ~$15/yr |
-| **Total platform cost** | | **$15/year** |
-
-### Traffic Projections
-
-| Timeline | Monthly Visits | Qualified Leads/Month |
-|---|---|---|
-| Month 6 | 55-100 | 3-8 |
-| Month 12 | 150-250 | 8-20 |
-| Month 18 | 220-350 | 11-28 |
-| Month 24 | 270-440 | 14-35 |
-
-### Revenue Projections
-
-| Period | Revenue from Website | Notes |
-|---|---|---|
-| Year 1 | $2,500-$8,000 | Slow ramp; most revenue in Q3-Q4 |
-| Year 2 | $12,000-$40,000 | SEO maturity + repeat customers |
-
-### Investment & ROI
-
-| Metric | Estimate |
-|---|---|
-| Build cost | $3,000-$5,000 |
-| Annual maintenance | $500-$1,000 |
-| Breakeven | Month 12-18 |
-| 2-Year ROI | 200-900% |
-
----
-
-## Option 2: Lead-Gen + E-Commerce (Recommended)
-
-### What You Get
-
-Everything in Option 1, **plus** a Shopify-powered online store for **medals and plaques only** — standardized, shippable products that customers can customize and order online nationwide. Trophies, engraving, and other custom work remain in-store services driven by the lead-gen site.
+A professionally built, SEO-optimized website that generates local leads (phone calls, quote requests, walk-in traffic) **plus** a Shopify-powered online store for **medals and plaques** — standardized, shippable products that customers can customize and order online nationwide. Trophies, engraving, and other custom work remain in-store services driven by the lead-gen site.
 
 **80-120 pages at launch:**
-- Full lead-gen site (same as Option 1)
+- Full lead-gen site (homepage, 7 service pages, 5 area-served pages, gallery, about, contact, FAQ, reviews, blog)
 - Shopify store with 50-100 medal and plaque products
 - Zakeke visual product customizer — customers preview their engraving, logos, and colors in real-time before ordering
 - Guest checkout, shipping calculator, discount codes, inventory management
 
-### Why E-Commerce Matters
+### Why This Is Best for a Business Sale
 
 Your two most successful competitors both run on Shopify:
 - **Trophy Depot:** 19,578 visits/mo, ~$83K traffic value — Shopify store
 - **K2 Awards:** 88,644 visits/mo — Shopify store
 
-Neither offers real-time visual product customization. **Zakeke gives The Trophy Case a competitive edge that no mid-tier competitor has.** Customers can see exactly what their engraved plaque or custom medal will look like before ordering — instead of ordering blind like they do on Trophy Depot.
+An online store generates **documented, transferable revenue** that doesn't depend on you. A buyer can look at Shopify analytics and see exactly how much the store earns per month. That's worth real money in a sale negotiation.
+
+Neither competitor offers real-time visual product customization. **Zakeke gives The Trophy Case a competitive edge** — customers see exactly what their engraved plaque or custom medal looks like before ordering.
 
 ### Technology
 
 | Component | Solution | Monthly Cost | Annual Cost |
 |---|---|---|---|
-| Lead-gen site (Next.js + Vercel) | Same as Option 1 | $0 | $0 |
+| Lead-gen site (Next.js + Vercel) | Static site, free hosting | $0 | $0 |
 | E-commerce platform | Shopify Basic | $39 | $468 |
 | Product customizer | Zakeke Starter (50 products) | $19 | $228 |
 | Domain | thetrophycasefremont.com | — | $15 |
-| **Total platform cost** | | **$58/mo** | **$711/yr** |
+| SEO management + hosting | Monthly content, keyword tracking, updates | $99 | $1,188 |
+| **Total ongoing cost** | | **$157/mo** | **$1,899/yr** |
 
 ### How It Works Together
 
@@ -171,8 +128,8 @@ shop.thetrophycasefremont.com (Shopify — medals & plaques only)
 
 | Period | Local Revenue | E-Commerce (Medals & Plaques) | Total |
 |---|---|---|---|
-| Year 1 | $2,500-$8,000 | $600-$2,200 | $3,100-$10,200 |
-| Year 2 | $12,000-$40,000 | $8,000-$22,000 | $20,000-$62,000 |
+| **Year 1** | $2,500-$8,000 | $600-$2,200 | **$3,100-$10,200** |
+| **Year 2** | $12,000-$40,000 | $8,000-$22,000 | **$20,000-$62,000** |
 
 *E-commerce projections based on 1.5-2.5% conversion rate, $55-$70 average order value, limited to medals and plaques. Local revenue includes all in-store services (trophies, engraving, corporate awards) driven by website leads.*
 
@@ -180,28 +137,163 @@ shop.thetrophycasefremont.com (Shopify — medals & plaques only)
 
 | Metric | Estimate |
 |---|---|
-| Build cost | $8,000-$12,000 |
-| Annual platform costs | ~$711 |
+| Build cost | $5,500 |
+| Annual ongoing costs (platform + SEO) | $1,899 |
+| Year 1 revenue | $3,100-$10,200 |
+| Year 2 revenue | $20,000-$62,000 |
+| 24-month cumulative revenue | $23,100-$72,200 |
+| 24-month total costs (build + 2yr ongoing) | $9,298 |
+| 24-month net profit | **$13,802-$62,902** |
 | Breakeven | Month 12-18 |
-| 2-Year ROI | 200-500% |
+| 2-Year ROI | 148-677% |
+
+---
+
+## Option 2: Lead-Gen Website Only — $2,750
+
+### What You Get
+
+A professionally built, SEO-optimized website focused on generating local leads — phone calls, quote requests, and walk-in traffic from customers searching online.
+
+**22-28 pages at launch:**
+- Homepage with trust signals, services overview, and calls to action
+- 7 service pages (custom trophies, medals, plaques, engraving, acrylic awards, glass awards, corporate awards)
+- 5 area-served pages (Fremont, Omaha, Wahoo, Blair, Dodge County)
+- Gallery/portfolio, About, Contact, FAQ, Reviews page
+- Blog (launch with 3-5 posts, add 2/month ongoing)
+
+### Technology
+
+| Component | Solution | Monthly Cost | Annual Cost |
+|---|---|---|---|
+| Framework | Next.js (static site generation) | $0 | $0 |
+| Hosting | Vercel | $0 | $0 |
+| Forms | Formspree (50 submissions/mo) | $0 | $0 |
+| Analytics | Google Analytics 4 + Search Console | $0 | $0 |
+| Domain | thetrophycasefremont.com (existing) | — | $15 |
+| SEO management + hosting | Monthly content, keyword tracking, updates | $99 | $1,188 |
+| **Total ongoing cost** | | **$99/mo** | **$1,203/yr** |
+
+### Traffic Projections
+
+| Timeline | Monthly Visits | Qualified Leads/Month |
+|---|---|---|
+| Month 6 | 55-100 | 3-8 |
+| Month 12 | 150-250 | 8-20 |
+| Month 18 | 220-350 | 11-28 |
+| Month 24 | 270-440 | 14-35 |
+
+### Revenue Projections
+
+| Period | Revenue from Website |
+|---|---|
+| **Year 1** | **$2,500-$8,000** |
+| **Year 2** | **$12,000-$40,000** |
+
+*Slow ramp in Year 1; most revenue in Q3-Q4. Year 2 reflects SEO maturity and repeat customers.*
+
+### Investment & ROI
+
+| Metric | Estimate |
+|---|---|
+| Build cost | $2,750 |
+| Annual ongoing costs (domain + SEO) | $1,203 |
+| Year 1 revenue | $2,500-$8,000 |
+| Year 2 revenue | $12,000-$40,000 |
+| 24-month cumulative revenue | $14,500-$48,000 |
+| 24-month total costs (build + 2yr ongoing) | $5,156 |
+| 24-month net profit | **$9,344-$42,844** |
+| Breakeven | Month 12-18 |
+| 2-Year ROI | 181-831% |
+
+### Upgrade Path
+
+Option 2 is built on the same Next.js architecture as Option 1. If you or a future buyer decides to add a Shopify store later, it plugs in without rebuilding the site.
 
 ---
 
 ## Side-by-Side Comparison
 
-| Metric | Option 1 | Option 2 |
+| Metric | Option 1 ($5,500) | Option 2 ($2,750) |
 |---|---|---|
-| **Build investment** | $3,000-$5,000 | $8,000-$12,000 |
-| **Annual platform costs** | $15 | $711 |
-| **Year 1 revenue** | $2,500-$8,000 | $3,100-$10,200 |
-| **Year 2 revenue** | $12,000-$40,000 | $20,000-$62,000 |
-| **24-month cumulative revenue** | $14,500-$48,000 | $23,100-$72,200 |
-| **24-month net profit** | $8,500-$42,000 | $11,700-$58,800 |
+| **Build investment** | $5,500 | $2,750 |
+| **Annual ongoing costs** | $1,899/yr ($157/mo) | $1,203/yr ($99/mo) |
+| **Year 1 revenue** | $3,100-$10,200 | $2,500-$8,000 |
+| **Year 2 revenue** | $20,000-$62,000 | $12,000-$40,000 |
+| **24-month cumulative revenue** | $23,100-$72,200 | $14,500-$48,000 |
+| **24-month total costs** | $9,298 | $5,156 |
+| **24-month net profit** | $13,802-$62,902 | $9,344-$42,844 |
 | **Breakeven** | Month 12-18 | Month 12-18 |
-| **Market reach** | Fremont + Omaha metro | Local + nationwide (medals/plaques) |
-| **Build timeline** | 4-6 weeks | 8-12 weeks |
+| **Market reach** | Local + nationwide (medals/plaques) | Fremont + Omaha metro |
+| **Build timeline** | 8-12 weeks | 4-6 weeks |
+| **Best for business sale?** | **Yes — documented e-commerce revenue** | Good — local leads only |
 
-**Option 2 costs ~2.5x more upfront but opens a nationwide e-commerce channel for medals and plaques on top of the local lead-gen revenue.** The e-commerce component scales independently as the product catalog and SEO authority grow.
+---
+
+## How This Increases Your Sale Price
+
+Small businesses typically sell for **1.5-3x annual profit.** Here's how a website changes the math over 1, 2, and 3 years — using conservative low-end estimates throughout.
+
+### Without a Website (Today)
+
+| Metric | Current |
+|---|---|
+| Annual revenue | $85,000 |
+| Annual profit | $48,000 |
+| Asking price (1-1.7x profit) | $45,000-$80,000 |
+| **Key risk for buyer:** | Revenue depends on owner's relationships (wrestling meets, car shows, word-of-mouth) |
+
+### With Option 1 — Website + Online Store ($5,500)
+
+| Metric | Year 1 | Year 2 | Year 3 |
+|---|---|---|---|
+| Website-added revenue | $3,100-$10,200 | $20,000-$62,000 | $30,000-$80,000 |
+| Minus ongoing costs ($1,899/yr) | -$1,899 | -$1,899 | -$1,899 |
+| **Net profit added by website** | **$1,201-$8,301** | **$18,101-$60,101** | **$28,101-$78,101** |
+| Total business profit | $49,201-$56,301 | $66,101-$108,101 | $76,101-$126,101 |
+| **Business sale value (1.5x profit)** | **$73,800-$84,500** | **$99,150-$162,150** | **$114,150-$189,150** |
+| **Increase over today's asking ($45-$80K)** | **+$0-$39,500** | **+$19,150-$117,150** | **+$34,150-$144,150** |
+
+*Year 3 revenue assumes continued SEO growth and repeat customer compounding. Conservative estimate: 50% increase over Year 2 low-end.*
+
+### With Option 2 — Lead-Gen Website ($2,750)
+
+| Metric | Year 1 | Year 2 | Year 3 |
+|---|---|---|---|
+| Website-added revenue | $2,500-$8,000 | $12,000-$40,000 | $18,000-$55,000 |
+| Minus ongoing costs ($1,203/yr) | -$1,203 | -$1,203 | -$1,203 |
+| **Net profit added by website** | **$1,297-$6,797** | **$10,797-$38,797** | **$16,797-$53,797** |
+| Total business profit | $49,297-$54,797 | $58,797-$86,797 | $64,797-$101,797 |
+| **Business sale value (1.5x profit)** | **$74,000-$82,200** | **$88,200-$130,200** | **$97,200-$152,700** |
+| **Increase over today's asking ($45-$80K)** | **+$0-$37,200** | **+$8,200-$85,200** | **+$17,200-$107,700** |
+
+*Year 3 revenue assumes continued SEO growth and repeat B2B customers. Conservative estimate: 50% increase over Year 2 low-end.*
+
+### Conservative Bottom Line
+
+Using **only the low-end numbers** and the lowest sale multiple (1.5x):
+
+| Scenario | Year 1 Sale Value | Year 2 Sale Value | Year 3 Sale Value |
+|---|---|---|---|
+| **No website (today)** | $45,000-$80,000 | Same | Same |
+| **Option 1 ($5,500 + $157/mo)** | $73,800 | **$99,150** | **$114,150** |
+| **Option 2 ($2,750 + $99/mo)** | $74,000 | **$88,200** | **$97,200** |
+
+Even at the most conservative end, **Option 1 adds ~$19,000 to your sale price by Year 2** and **~$34,000 by Year 3.** That's a 3-6x return on the total investment. Option 2 adds ~$8,000 by Year 2 and ~$17,000 by Year 3 at similarly conservative assumptions.
+
+**The website investment of $2,750-$5,500 is the highest-ROI move you can make before listing the business.**
+
+### What Transfers to a Buyer
+
+| Asset | Transfers? | Notes |
+|---|---|---|
+| Website + domain | **Yes** | All rankings, traffic, and content transfer automatically |
+| Shopify store + revenue | **Yes** | Documented monthly sales in Shopify analytics |
+| Google Business Profile | **Yes** | Reviews, ranking, and map pack visibility stay |
+| Blog content + SEO authority | **Yes** | 12-18 months of content builds lasting value |
+| Wrestling meet relationships | **Partially** | Buyer would need to maintain these personally |
+| Car show trophy orders | **Partially** | Relationship-dependent, harder to transfer |
+| Walk-in foot traffic | **Yes** | Location-based, doesn't depend on owner |
 
 ---
 
@@ -221,7 +313,7 @@ Regardless of which option you choose, **optimizing your Google Business Profile
 5. Ensure NAP (Name, Address, Phone) consistency across all online directories
 
 ### Expected Impact
-GBP optimization alone can drive 70-160 visits/month by Month 12 — nearly half of all projected local traffic.
+GBP optimization alone can drive 70-160 visits/month by Month 12 — nearly half of all projected local traffic. **Every wrestling meet and car show is a chance to ask a happy customer for a Google review.**
 
 ---
 
@@ -235,23 +327,11 @@ Our research confirmed that Google Ads are **cost-prohibitive** for this industr
 | Google Ads (plaques) | ~$225 per sale | $40-$80 | **Lose $145-$185 per sale** |
 | **SEO (this proposal)** | **$0.50-$5 per lead** | $65-$200 | **100-600x more efficient** |
 
-Organic SEO delivers customer acquisition costs that are **100-600x more efficient** than paid advertising. The website is the investment; the traffic is free after that.
-
 ---
 
 ## Timeline
 
-### Option 1 (4-6 Weeks)
-
-| Week | Milestone |
-|---|---|
-| Week 1 | GBP optimization, design mockups, content planning |
-| Week 2-3 | Homepage, service pages, schema markup |
-| Week 4 | Area-served pages, blog posts, contact/quote forms |
-| Week 5 | Testing, mobile optimization, analytics setup |
-| Week 6 | Launch, submit sitemap, begin review generation campaign |
-
-### Option 2 (8-12 Weeks)
+### Option 1 (8-12 Weeks)
 
 | Week | Milestone |
 |---|---|
@@ -261,6 +341,20 @@ Organic SEO delivers customer acquisition costs that are **100-600x more efficie
 | Week 7-8 | Shopify: product photography, descriptions, pricing |
 | Week 9-10 | Cross-site linking, analytics, testing |
 | Week 11-12 | Launch, submit sitemaps, begin marketing |
+
+**Target launch: April 2026** — captures the spring sports awards peak and gives you 12-18 months of documented growth before listing the business.
+
+### Option 2 (4-6 Weeks)
+
+| Week | Milestone |
+|---|---|
+| Week 1 | GBP optimization, design mockups, content planning |
+| Week 2-3 | Homepage, service pages, schema markup |
+| Week 4 | Area-served pages, blog posts, contact/quote forms |
+| Week 5 | Testing, mobile optimization, analytics setup |
+| Week 6 | Launch, submit sitemap, begin review generation campaign |
+
+**Target launch: March 2026** — captures the spring peak even earlier.
 
 ---
 
@@ -277,7 +371,7 @@ Organic SEO delivers customer acquisition costs that are **100-600x more efficie
 - Quote request form with email notifications
 - 3-5 launch blog posts
 
-### Option 2 Additional
+### Option 1 Additional
 - Shopify store setup and configuration
 - 50-100 product listings with optimized descriptions
 - Zakeke product customizer integration and template setup
@@ -290,9 +384,11 @@ Organic SEO delivers customer acquisition costs that are **100-600x more efficie
 
 ## Recommendation
 
-**We recommend Option 2.** The additional $5,000-$7,000 in build cost adds a nationwide e-commerce channel for medals and plaques — products that ship easily and lend themselves to online ordering with visual customization. The Zakeke product customizer gives The Trophy Case an edge that no mid-tier competitor offers, and the platform costs of $58/month are modest.
+**Option 1 ($5,500 + $157/mo) is the strongest move for selling the business.** The online store creates documented, transferable revenue that a buyer can verify in Shopify analytics. It doesn't depend on you being there. For $2,750 more upfront and $58/mo more than Option 2, you add a nationwide e-commerce channel that conservatively adds ~$19,000 to your sale price by Year 2 — and keeps growing.
 
-However, Option 1 is a solid, lower-risk starting point if you prefer to prove the concept with local lead generation first and add e-commerce later. The Next.js architecture supports adding Shopify integration in the future without rebuilding.
+Option 2 ($2,750 + $99/mo) is a solid, lower-cost alternative if you want to minimize spending. It still builds local SEO value and Google reviews that transfer to a buyer. And the architecture supports adding a Shopify store later — either before you sell or as a selling point ("the site is built to easily add e-commerce").
+
+Both options include monthly SEO management: new blog content, keyword tracking, competitor monitoring, technical updates, and Google Business Profile maintenance — the ongoing work that keeps rankings growing.
 
 ---
 
@@ -301,7 +397,7 @@ However, Option 1 is a solid, lower-risk starting point if you prefer to prove t
 1. **Choose Option 1 or Option 2**
 2. **Begin Google Business Profile optimization** (can start this week, independent of website build)
 3. **Schedule a kickoff meeting** to discuss product photography, content needs, and launch timeline
-4. **Target launch:** Before April to capture the spring sports awards peak season
+4. **Target launch:** March-April 2026 to capture the spring sports awards peak and build 12-18 months of documented traffic before listing
 
 ---
 

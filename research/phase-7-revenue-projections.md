@@ -60,13 +60,15 @@
 
 | Month | Local Revenue | E-Commerce Revenue | **Total Monthly Revenue** |
 |---|---|---|---|
-| **Month 3** | $0-$200 | $50-$200 | **$50-$400** |
-| **Month 6** | $200-$500 | $200-$700 | **$400-$1,200** |
-| **Month 9** | $330-$880 | $500-$1,500 | **$830-$2,380** |
-| **Month 12** | $460-$1,380 | $1,000-$3,000 | **$1,460-$4,380** |
-| **Month 15** | $600-$1,680 | $1,500-$4,500 | **$2,100-$6,180** |
-| **Month 18** | $720-$2,040 | $2,500-$6,500 | **$3,220-$8,540** |
-| **Month 24** | $875-$2,625 | $4,000-$10,000 | **$4,875-$12,625** |
+| **Month 3** | $0-$200 | $0-$55 | **$0-$255** |
+| **Month 6** | $200-$500 | $55-$110 | **$255-$610** |
+| **Month 9** | $330-$880 | $120-$240 | **$450-$1,120** |
+| **Month 12** | $460-$1,380 | $195-$520 | **$655-$1,900** |
+| **Month 15** | $600-$1,680 | $390-$910 | **$990-$2,590** |
+| **Month 18** | $720-$2,040 | $585-$1,300 | **$1,305-$3,340** |
+| **Month 24** | $875-$2,625 | $1,050-$2,450 | **$1,925-$5,075** |
+
+*E-commerce monthly figures derived from the E-Commerce Revenue Detail table below.*
 
 ### E-Commerce Revenue Detail
 
@@ -85,9 +87,10 @@
 
 | Period | Conservative | Moderate | Notes |
 |---|---|---|---|
-| **Year 1 total** | $8,000-$14,000 | $16,000-$28,000 | E-commerce revenue builds in H2 |
-| **Year 2 annualized** | $36,000-$60,000 | $72,000-$120,000 | SEO maturity + product catalog depth |
-| **Year 2+ compound growth** | $50,000-$90,000 | $100,000-$180,000 | Repeat customers + expanded catalog |
+| **Year 1 total (local + e-com)** | $3,100-$6,200 | $5,100-$10,200 | E-commerce $600-$2,200; local $2,500-$8,000 |
+| **Year 2 total (local + e-com)** | $20,000-$34,000 | $32,000-$62,000 | E-commerce $8,000-$22,000; local $12,000-$40,000 |
+
+*Note: These figures are derived from the monthly detail tables above. E-commerce is limited to medals and plaques only.*
 
 ---
 
@@ -108,14 +111,15 @@
 
 | Metric | Conservative | Moderate |
 |---|---|---|
-| Website investment (build) | $8,000-$12,000 | $8,000-$12,000 |
+| Website investment (build) | $5,500 | $5,500 |
 | Shopify monthly ($39/mo) | $468/yr | $468/yr |
-| Zakeke monthly (~$50/mo) | $600/yr | $600/yr |
-| Annual platform costs | ~$1,100 | ~$1,100 |
-| Year 1 revenue from website | $8,000-$14,000 | $16,000-$28,000 |
-| Year 2 revenue from website | $50,000-$90,000 | $100,000-$180,000 |
-| **Breakeven** | **Month 10-15** | **Month 5-8** |
-| **2-Year ROI** | **400-700%** | **900-1,500%** |
+| Zakeke monthly ($19/mo) | $228/yr | $228/yr |
+| Annual platform costs | ~$711 | ~$711 |
+| Year 1 revenue from website | $3,100-$6,200 | $5,100-$10,200 |
+| Year 2 revenue from website | $20,000-$34,000 | $32,000-$62,000 |
+| **24-month cumulative revenue** | **$23,100-$40,200** | **$37,100-$72,200** |
+| **Breakeven** | **Month 10-16** | **Month 8-12** |
+| **2-Year ROI** | **224-480%** | **436-938%** |
 
 ### Cost Per Customer Acquisition
 
@@ -134,45 +138,45 @@
 
 ### 24-Month Cumulative Revenue
 
-| Metric | Option 1 | Option 2 | Difference |
+| Metric | Option 1 (Lead-Gen) | Option 2 (Lead-Gen + E-Com) | Difference |
 |---|---|---|---|
-| Total investment | $4,000-$6,000 | $10,000-$14,200 | +$6,000-$8,200 |
-| Year 1 revenue | $2,500-$8,000 | $8,000-$28,000 | +$5,500-$20,000 |
-| Year 2 revenue | $12,000-$40,000 | $50,000-$180,000 | +$38,000-$140,000 |
-| **24-month cumulative** | **$14,500-$48,000** | **$58,000-$208,000** | **+$43,500-$160,000** |
-| **24-month net profit** | **$8,500-$42,000** | **$45,600-$191,600** | **+$37,100-$149,600** |
+| Total investment (build + 2yr platform) | $2,780 | $6,922 | +$4,142 |
+| Year 1 revenue | $2,500-$8,000 | $3,100-$10,200 | +$600-$2,200 |
+| Year 2 revenue | $12,000-$40,000 | $20,000-$62,000 | +$8,000-$22,000 |
+| **24-month cumulative** | **$14,500-$48,000** | **$23,100-$72,200** | **+$8,600-$24,200** |
+| **24-month net profit** | **$11,720-$45,220** | **$15,478-$64,778** | **+$3,758-$19,558** |
 
 ### Break-Even Analysis
 
 ```
-Option 1: Breaks even at Month 12-18
+Option 1 (Lead-Gen, $2,750): Breaks even at Month 10-16
          ─────────────────────────────────────────
 Month    1    3    6    9    12   15   18   24
 Revenue  $0   $200 $1.5K $4K  $8K  $14K $21K $42K
-Invest   -$4K                  ↑ BREAKEVEN
+Invest   -$2.8K              ↑ BREAKEVEN
 
-Option 2: Breaks even at Month 10-15, then accelerates
+Option 2 (Lead-Gen + E-Com, $5,500): Breaks even at Month 10-16
          ─────────────────────────────────────────
 Month    1    3    6    9    12   15   18   24
-Revenue  $0   $600 $4K  $12K $26K $50K $82K $180K
-Invest   -$12K              ↑ BREAKEVEN
+Revenue  $0   $400 $2.5K $6K  $12K $22K $36K $65K
+Invest   -$6.9K              ↑ BREAKEVEN
 ```
 
-**Option 2 costs ~2.5x more upfront but generates ~4x the 24-month revenue.** The additional investment in Shopify/Zakeke e-commerce pays for itself within the first year and compounds in Year 2.
+**Option 2 costs ~2.5x more upfront but adds a nationwide e-commerce channel for medals and plaques.** The e-commerce component scales independently as the product catalog and SEO authority grow.
 
 ---
 
 ## E. Key Findings for Proposal
 
-1. **Option 1 is a safe, low-risk investment** that breaks even within 12-18 months and delivers steady local revenue of $12,000-$40,000/year.
+1. **Option 1 (Lead-Gen, $2,750) is a safe, low-risk investment** that breaks even within 10-16 months and delivers steady local revenue of $12,000-$40,000/year by Year 2.
 
-2. **Option 2 is a higher-investment, higher-return play** that breaks even at Month 10-15 but accelerates dramatically in Year 2 with $50,000-$180,000 annual potential.
+2. **Option 2 (Lead-Gen + E-Com, $5,500) adds a nationwide e-commerce channel** for medals and plaques, generating $23,100-$72,200 in cumulative revenue over 24 months vs. $14,500-$48,000 for Option 1.
 
-3. **The incremental cost of Option 2 ($6,000-$8,200 more) generates $43,500-$160,000 more revenue over 24 months.** This is the strongest argument for the Shopify/Zakeke investment.
+3. **The incremental cost of Option 2 (~$4,142 more over 2 years) generates $8,600-$24,200 more revenue over 24 months.** The e-commerce store also creates documented, transferable revenue that increases business sale value.
 
 4. **Both options deliver dramatically better ROI than paid advertising.** Website-driven CPA is $0.50-$5 vs. $225-$300 via Google Ads.
 
-5. **Revenue projections are intentionally conservative.** These assume no paid social, no email marketing, no referral programs, and modest conversion rates. A comprehensive digital marketing strategy would increase these numbers.
+5. **Revenue projections are intentionally conservative.** These assume no paid social, no email marketing, no referral programs, and modest conversion rates. E-commerce projections are derived from the monthly detail tables using 1.5-2.5% conversion rates and $55-$70 AOV for medals and plaques only.
 
 6. **Repeat B2B customers are the key to compounding local revenue.** Schools, sports leagues, and businesses that order annually represent $200-$4,800/year each in lifetime value.
 
