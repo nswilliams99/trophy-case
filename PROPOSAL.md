@@ -116,11 +116,11 @@ A professionally built, SEO-optimized website focused on generating local leads 
 
 ### What You Get
 
-Everything in Option 1, **plus** a Shopify-powered online store with visual product customization that lets customers design and order medals, plaques, and awards online — shipped nationwide.
+Everything in Option 1, **plus** a Shopify-powered online store for **medals and plaques only** — standardized, shippable products that customers can customize and order online nationwide. Trophies, engraving, and other custom work remain in-store services driven by the lead-gen site.
 
 **80-120 pages at launch:**
 - Full lead-gen site (same as Option 1)
-- Shopify store with 50-100 products across medal, plaque, and trophy collections
+- Shopify store with 50-100 medal and plaque products
 - Zakeke visual product customizer — customers preview their engraving, logos, and colors in real-time before ordering
 - Guest checkout, shipping calculator, discount codes, inventory management
 
@@ -147,14 +147,15 @@ Neither offers real-time visual product customization. **Zakeke gives The Trophy
 ```
 thetrophycasefremont.com (Next.js — local SEO + lead gen)
 ├── Homepage, services, gallery, blog, contact
-├── Each service page links to relevant products in the shop
-└── "Shop Online" in main navigation
+├── Service pages for ALL products (trophies, engraving, etc.)
+├── Medal & plaque pages link to the online shop
+└── "Shop Medals & Plaques Online" in navigation
 
-shop.thetrophycasefremont.com (Shopify — e-commerce)
-├── Product collections (medals, plaques, trophies)
+shop.thetrophycasefremont.com (Shopify — medals & plaques only)
+├── Product collections (medals by sport, plaques by material)
 ├── Visual customizer (Zakeke) on each product page
 ├── Guest checkout + shipping calculator
-└── Links back to main site for local services
+└── Links back to main site for in-store services
 ```
 
 ### Traffic Projections
@@ -168,10 +169,12 @@ shop.thetrophycasefremont.com (Shopify — e-commerce)
 
 ### Revenue Projections
 
-| Period | Local Revenue | E-Commerce Revenue | Total |
+| Period | Local Revenue | E-Commerce (Medals & Plaques) | Total |
 |---|---|---|---|
-| Year 1 | $2,500-$8,000 | $5,500-$20,000 | $8,000-$28,000 |
-| Year 2 | $12,000-$40,000 | $38,000-$140,000 | $50,000-$180,000 |
+| Year 1 | $2,500-$8,000 | $600-$2,200 | $3,100-$10,200 |
+| Year 2 | $12,000-$40,000 | $8,000-$22,000 | $20,000-$62,000 |
+
+*E-commerce projections based on 1.5-2.5% conversion rate, $55-$70 average order value, limited to medals and plaques. Local revenue includes all in-store services (trophies, engraving, corporate awards) driven by website leads.*
 
 ### Investment & ROI
 
@@ -179,8 +182,8 @@ shop.thetrophycasefremont.com (Shopify — e-commerce)
 |---|---|
 | Build cost | $8,000-$12,000 |
 | Annual platform costs | ~$711 |
-| Breakeven | Month 10-15 |
-| 2-Year ROI | 400-1,500% |
+| Breakeven | Month 12-18 |
+| 2-Year ROI | 200-500% |
 
 ---
 
@@ -190,15 +193,15 @@ shop.thetrophycasefremont.com (Shopify — e-commerce)
 |---|---|---|
 | **Build investment** | $3,000-$5,000 | $8,000-$12,000 |
 | **Annual platform costs** | $15 | $711 |
-| **Year 1 revenue** | $2,500-$8,000 | $8,000-$28,000 |
-| **Year 2 revenue** | $12,000-$40,000 | $50,000-$180,000 |
-| **24-month cumulative revenue** | $14,500-$48,000 | $58,000-$208,000 |
-| **24-month net profit** | $8,500-$42,000 | $45,600-$191,600 |
-| **Breakeven** | Month 12-18 | Month 10-15 |
-| **Market reach** | Fremont + Omaha metro | Local + nationwide |
+| **Year 1 revenue** | $2,500-$8,000 | $3,100-$10,200 |
+| **Year 2 revenue** | $12,000-$40,000 | $20,000-$62,000 |
+| **24-month cumulative revenue** | $14,500-$48,000 | $23,100-$72,200 |
+| **24-month net profit** | $8,500-$42,000 | $11,700-$58,800 |
+| **Breakeven** | Month 12-18 | Month 12-18 |
+| **Market reach** | Fremont + Omaha metro | Local + nationwide (medals/plaques) |
 | **Build timeline** | 4-6 weeks | 8-12 weeks |
 
-**Option 2 costs ~2.5x more upfront but generates ~4x the revenue over 24 months.** The additional investment pays for itself within the first year and compounds dramatically in Year 2.
+**Option 2 costs ~2.5x more upfront but opens a nationwide e-commerce channel for medals and plaques on top of the local lead-gen revenue.** The e-commerce component scales independently as the product catalog and SEO authority grow.
 
 ---
 
@@ -287,9 +290,9 @@ Organic SEO delivers customer acquisition costs that are **100-600x more efficie
 
 ## Recommendation
 
-**We recommend Option 2.** The additional $5,000-$7,000 in build cost generates $43,500-$160,000 more revenue over 24 months. The Shopify e-commerce store with Zakeke visual customization gives The Trophy Case a genuine competitive advantage that no mid-tier competitor in this space currently offers — and the platform costs of $58/month are trivial relative to projected returns.
+**We recommend Option 2.** The additional $5,000-$7,000 in build cost adds a nationwide e-commerce channel for medals and plaques — products that ship easily and lend themselves to online ordering with visual customization. The Zakeke product customizer gives The Trophy Case an edge that no mid-tier competitor offers, and the platform costs of $58/month are modest.
 
-However, Option 1 is a solid, low-risk starting point if you prefer to prove the concept with local lead generation first and add e-commerce later. The Next.js architecture supports adding Shopify integration in the future without rebuilding.
+However, Option 1 is a solid, lower-risk starting point if you prefer to prove the concept with local lead generation first and add e-commerce later. The Next.js architecture supports adding Shopify integration in the future without rebuilding.
 
 ---
 
