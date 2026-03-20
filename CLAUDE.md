@@ -72,3 +72,19 @@ npm run lint
 - â Use Tailwind CSS for styling (v4 with PostCSS)
 - â Keep components small and reusable (Radix UI + shadcn pattern)
 - â Always commit with descriptive messages
+
+
+---
+
+## Shared Data Library
+
+Nate's shared SEO dataset lives at `C:\Users\Nateman\SharedData\`
+
+Before fetching any external data, check here first:
+- **FAQs / PAA questions** → `faqs.json` (keyed by keyword)
+- **Keyword data** → `keywords.json` (keyed by keyword)
+- **SERP snapshots** → `serp-data.json`
+- **Schema blocks** → `schema-templates\`
+- **Content outlines** → `content-templates\`
+
+Use cached data if `fetched_at` is within 60 days. Only fetch fresh data if the keyword is missing or the cache is expired.
