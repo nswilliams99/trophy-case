@@ -1,7 +1,7 @@
 # Graph Report - C:\Users\Nateman\Projects\trophy-case  (2026-04-20)
 
 ## Corpus Check
-- 9 files · ~62,470 words
+- 9 files · ~64,873 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary

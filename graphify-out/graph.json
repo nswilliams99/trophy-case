@@ -80,18 +80,18 @@
       "file_type": "rationale",
       "source_file": "C:\\Users\\Nateman\\Projects\\trophy-case\\research\\parse_keywords.py",
       "source_location": "L35",
-      "id": "parse_keywords_rationale_35",
       "community": 0,
-      "norm_label": "extract keywords from a dataforseo keyword suggestions result file."
+      "norm_label": "extract keywords from a dataforseo keyword suggestions result file.",
+      "id": "parse_keywords_rationale_35"
     },
     {
       "label": "Format keywords as a markdown table.",
       "file_type": "rationale",
       "source_file": "C:\\Users\\Nateman\\Projects\\trophy-case\\research\\parse_keywords.py",
       "source_location": "L122",
-      "id": "parse_keywords_rationale_122",
       "community": 1,
-      "norm_label": "format keywords as a markdown table."
+      "norm_label": "format keywords as a markdown table.",
+      "id": "parse_keywords_rationale_122"
     },
     {
       "label": "layout.tsx",
